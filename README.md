@@ -1,4 +1,4 @@
-#JavaProject PE5
+#JavaProject PE4
 
 
 (a)  Write a java program to count the total number of occurrences of a given character in a string
